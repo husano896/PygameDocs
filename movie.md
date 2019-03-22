@@ -1,5 +1,11 @@
 # movie | Pygame中文文档
 
+## 棄用提示 (DEPRECATED)
+<b>因於不同OS的相容問題, 已於1.9.2之後版本移除.</b>
+> https://bitbucket.org/pygame/pygame/issues/238
+
+> https://github.com/pygame/pygame/issues/238
+
 ## pygame.movie
 
 >Pygame 中播放 MPEG 视频的模块。
